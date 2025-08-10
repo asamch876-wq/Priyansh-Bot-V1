@@ -135,7 +135,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️Me toh Andha Hu Dekh nhi sakta", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Zidi") || (event.body.toLowerCase() == "Zidi Nawab") || (event.body.toLowerCase() == "Zidi Zidi")) {
+   if ((event.body.toLowerCase(Zidi) == "Zidi") || (event.body.toLowerCase() == "Zidi Nawab") || (event.body.toLowerCase() == "Zidi Zidi")) {
     return api.sendMessage("️𝐙𝐢𝐝𝐢 𝐍𝐚𝐰𝐚𝐛 𝐑𝐚𝐧𝐝𝐰𝐚 𝐇𝐚 𝐤𝐢𝐬𝐢 𝐤𝐨 𝐛𝐭𝐚𝐧𝐚 𝐧𝐚𝐢 😇", threadID);
    };
 
