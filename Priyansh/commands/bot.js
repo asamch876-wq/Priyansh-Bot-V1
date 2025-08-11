@@ -32,8 +32,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("Hug me baby ☺️", threadID);
    };
 
-   if ((event.body.toLowerCase() == "sim") || (event.body.toLowerCase() == "simsimi")) {
-     return api.sendMessage("Prefix Kon Lagayega? Pehle Prefix Lagao Fir Likho Sim", threadID);
+   if ((event.body.toLowerCase() == "Asalamo Alykom") || (event.body.toLowerCase() == "اسلام علیکم")) {
+     return api.sendMessage("Walaikom Aslam 😚🌹", threadID);
    };
   
    if ((event.body.toLowerCase() == "hi") || (event.body.toLowerCase() == "hello") ||(event.body.toLowerCase() == "hlw") || (event.body.toLowerCase() == "helo")) {
