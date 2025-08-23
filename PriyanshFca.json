@@ -1,9 +1,9 @@
 {
-	"Language": "en",
+	"Language": "ur",
 	"PreKey": "",
 	"AutoUpdate": false,
 	"MainColor": "#9900FF",
-	"MainName": "[ FCA-PRIYANSH ]",
+	"MainName": "[ FCA-SHEHZADA ]",
 	"Uptime": true,
 	"Config": "default",
 	"Login2Fa": false,
@@ -32,7 +32,7 @@
 		"AntiGetUserInfo": true
 	},
 	"Websocket_Extension": {
-		"Status": false,
+		"Status": true,
 		"ResetData": false,
 		"AppState_Path": "appstate.json"
 	},
