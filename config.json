@@ -17,9 +17,62 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "𝘨𝘶𝘓𝘢𝘉𝘖",
-    "PREFIX": ".",
+    "PREFIX": "bot",
     "ADMINBOT": [
-        "61573449746719"
+        "61563543432150[
+    {
+        "key": "datr",
+        "value": "ywDMaLBATxTLFTMAfnd7tQa9",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-24T06:19:21.847Z",
+        "lastAccessed": "2025-09-24T06:19:21.850Z"
+    },
+    {
+        "key": "sb",
+        "value": "ywDMaAPbDdXvMtDViYNbmjZj",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-24T06:19:21.850Z",
+        "lastAccessed": "2025-09-24T06:19:21.850Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-24T06:19:21.850Z",
+        "lastAccessed": "2025-09-24T06:19:21.850Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-24T06:19:21.850Z",
+        "lastAccessed": "2025-09-24T06:19:21.850Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61563543432150",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-24T06:19:21.850Z",
+        "lastAccessed": "2025-09-24T06:19:21.850Z"
+    },
+    {
+        "key": "xs",
+        "value": "17%3AuVjs7uNdaFvfaQ%3A2%3A1758200591%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-24T06:19:21.850Z",
+        "lastAccess"
     ],
     "NDH": [
         "100037743553265"
